@@ -1,4 +1,4 @@
-# Azureの基礎知識
+# Introduction to Microsoft Azure Fundamentals
 [Link](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/1-introduction-microsoft-azure-fundamentals)
 
 ## 導入
@@ -14,36 +14,36 @@ Azureが提供する主要サービスの紹介
 利用できるガバナンスとコンプライアンスについて
 
 ## Azure Fundamentals とは
-Azure Fundamentalsとは、Azureと複数のサービスや機能の理解を進める３つのラーニングパス
+Azure Fundamentalsとは、Azureと複数のサービスや機能の理解を進める３つのラーニングパスで構成されています。
 以下に当てはまるユーザ向けの精選ガイド
 - 計算、ネットワーク、ストレージの各サービス
 - クラウドセキュリティのベストプラクティス
 - ガバナンスや管理のオプションを検討中
 
-Azure FundamentalsにはAzureを実際に体験できるインタラクティブな演習が含まれている。
-いくつかの演習は、sandboxと呼ばれる簡易的なAzure環境が提供され、自身のペースかつ無料でクラウドリソースの作成を練習することができる。
+Azure FundamentalsにはAzureを実際に体験できるインタラクティブな演習が含まれています。
+いくつかの演習は、sandboxと呼ばれる簡易的なAzure環境が提供され、自身のペースかつ無料でクラウドリソースの作成を練習することができます。
 
-技術的なIT経験は必須でないが、一般的なIT知識は学習効果を最大限に発揮することができる。
+技術的なIT経験は必須でないが、一般的なIT知識は学習効果を最大限に発揮することができます。
 
 ## なぜ Azure Fundamentals を受講するのか
-Azure Fundamentals はこれからクラウドを始める人にも、既にクラウドの経験がある人にも必要な情報を全て提供する。
+Azure Fundamentals はこれからクラウドを始める人にも、既にクラウドの経験がある人にも必要な情報を全て提供します。
 
 **受講を勧める人**
 - Azureやクラウドに興味がある人
 - Microsoftの公式認定資格を取得したい人
 
-Azure Fundamentals のラーニングパスシリーズはAZ-900: Microsoft Azure Fundamentalsの取得に役立つ。
+Azure Fundamentals のラーニングパスシリーズはAZ-900: Microsoft Azure Fundamentalsの取得に役立ちます。
 AZ-900は3つの知識領域を持つ
 1. クラウドの概念の説明 : 25% - 30%
 2. Azureのアーキテクチャとサービスの説明 : 35% - 40%
 3. Azureのマネジメントとガバナンスの説明 : 30% - 35%
 
-それぞれの領域マップは、Azure Fundamentalsを学ぶことができる。
-それぞれの割合は試験における各分野の相対的な比重を示している。
-割合が多いほど、その分野において問題が多く出題される。
-各分野でどのようなスキルがカバーされるか、具体的な内容は試験のページを必ず読むように。
+それぞれの領域マップは、Azure Fundamentalsを学ぶことができます。
+それぞれの割合は試験における各分野の相対的な比重を示しています。
+割合が多いほど、その分野において問題が多く出題されます。
+各分野でどのようなスキルがカバーされるか、具体的な内容は試験のページを必ず読むようにしてください。
 
-このトレーニングではAzureについて幅広く理解することができる。
+このトレーニングではAzureについて幅広く理解することができます。
 
 
 ### 英語
@@ -67,6 +67,7 @@ Describe : 記述する 説明する
 indicate : 示す
 Be sure : 必ず
 specifics : 詳細
+
 ## 例文
 which allows you do : doすることが許される ⇒ doできる 
 Azure Fundamentals provides you with everything you need to get started. : スタートアップに必要な情報を全て提供する。
